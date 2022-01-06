@@ -5,7 +5,6 @@
 You need to login with your github account  
 
 will automatiqually setup SonarQube Server   
-next you need to generate an AuthenticationToken on SonarQube Platform and place it in `gradle.properties`
   
   
 ## Mes TPs précédents  
