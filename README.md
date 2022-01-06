@@ -8,7 +8,13 @@ will automatiqually setup SonarQube Server
 next you need to generate an AuthenticationToken on SonarQube Platform and place it in `gradle.properties`
   
   
-  
+## Mes TPs précédents  
+
+Junit : https://github.com/CastHash532/TPtests  
+Selenium : https://github.com/CastHash532/TPselenium  
+Cucumber : https://github.com/CastHash532/TPcucumber  
+Sonarqube: https://github.com/CastHash532/SonarQube    
+
 ## Screenshots des étapes  
   
 

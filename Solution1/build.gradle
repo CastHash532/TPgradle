@@ -4,7 +4,6 @@ plugins {
     id 'jacoco'
     id 'maven-publish'
     id "net.madeng.slack" version "0.0.23"
-
 }
 
 group 'org.example'
